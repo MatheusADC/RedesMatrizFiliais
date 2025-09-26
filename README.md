@@ -31,7 +31,7 @@ Após a configuração, realizar testes de conectividade com o comando `ping`:
 - Entre computadores de diferentes sub-redes e localidades.  
 - Entre computadores e um **servidor fictício** configurado para representar a internet (simulado na matriz).  
 
-## Ferramenta
+### Ferramenta
 O trabalho deve ser realizado utilizando o **Cisco Packet Tracer**, que pode ser baixado gratuitamente no site oficial da Cisco Networking Academy:
 
 🔗 [Download Packet Tracer](https://www.netacad.com/resources/lab-downloads?courseLang=pt-BR)
